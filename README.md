@@ -1,0 +1,1 @@
+This package is free and you can modify it as you wish. No licence no third party.

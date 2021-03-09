@@ -1,0 +1,13 @@
+{
+  "name": "com.blancbenoit.protoprimitives",
+  "version": "1.0.0",
+  "displayName": "Protoprimitives",
+  "description": "This package allows you to create some simple primitives like torus, sphere or stairs!",
+  "unity": "2020.1",
+  "unityRelease": "9f1",
+  "author": {
+    "name": "Blanc Benoit",
+    "email": "benoitb.xii@gmail.com"
+  },
+  "type": "tool"
+}
